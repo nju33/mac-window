@@ -1,6 +1,6 @@
 {
   "name": "mac-window",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Elements like mac's window",
   "main": "dist/mac-window.umd.js",
   "jsnext:main": "dist/mac-window.es.js",
